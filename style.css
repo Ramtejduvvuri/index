@@ -1,0 +1,96 @@
+body {
+  position: absolute;
+  margin: 10px 20px 10px 20px;
+  border: 20px ridge rgb(124, 185, 255);
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+  font-family: "Limelight", sans-serif;
+}
+#headline {
+  text-align: center;
+  color: rgb(200, 300, 40);
+  font-family: monospace;
+  font-size: 60px;
+  margin: 10px 5px 10px 5px;
+  border: 5px solid pink;
+}
+p {
+  background-color: rgb(124, 185, 255);
+  font-family: "Cherry Swash", arial;
+  font-weight: bold;
+  line-height: 20px;
+}
+#notHeadline {
+  color: darkviolet;
+  font-family: sans-serif;
+}
+
+tr,
+th {
+  padding-right: 100px;
+}
+
+li {
+  line-height: 30px;
+}
+#link {
+  text-decoration: none;
+}
+span {
+  background-color: black;
+  color: rgb(255, 145, 145);
+}
+#randomlist {
+  text-align: center;
+  color: blue;
+  background-color: burlywood;
+}
+#tanlang {
+  color: aqua;
+  background-color: bisque;
+  text-align: left;
+}
+h2 {
+  background-color: coral;
+}
+h3 {
+  background-color: darkgreen;
+}
+h1 {
+  background-color: black;
+}
+img {
+  width: 550px;
+  margin: 10px 10px 10px 10px;
+  border: 15px ridge brown;
+}
+#webpara {
+  width: 300px;
+  height: 300px;
+  overflow-y: auto;
+  margin: 10px 10px 10px 10px;
+  border: 2px dashed blue;
+  padding-left: 20px;
+  padding-right: 20px;
+  position: relative;
+  left: 80px;
+  top: 20px;
+}
+#webdev {
+  background-color: darkolivegreen;
+  width: 1.5em;
+  height: 2 em;
+}
+.ramtej {
+  background-color: darkred;
+}
+h2.ramtej {
+  background: deeppink;
+}
+ul li #spiderman {
+  background-color: grey;
+}
+h1,
+h2 {
+  background-color: lightblue;
+}
